@@ -1,5 +1,4 @@
 # Homebridge-commax-boiler
----
 - 이 코드는 Rubyon homebridge-commax-boiler의 코드를 수정하여 작성하였습니다.
   -온도 최소 범위를 18도로 수정하고 조절 단위를 0.5 단위로 수정하였습니다
 
