@@ -1,5 +1,5 @@
 # Homebridge-commax-boiler
-- 이 코드는 Rubyon homebridge-commax-boiler의 코드를 수정하여 작성하였습니다.
+- 이 코드는 Rubyon님의 homebridge-commax-boiler 프로젝트의 코드를 수정하여 작성하였습니다.
   - 온도 최소 범위를 18도로 수정하고 조절 단위를 0.5 단위로 수정하였습니다
 
 - Commax 의 월패드가 Ruvie를 지원하지 않는 분들을 위한 내용입니다.
